@@ -17,10 +17,6 @@
             <DLLPath>GameData/Kerbalism/Kerbalism.dll</DLLPath>
             <CKANIdentifier>Kerbalism</CKANIdentifier>
         </ModReference>
-        <ModReference Include="KSPInterstellar">
-            <DLLPath>GameData/WarpPlugin/Plugins/Interstellar.dll</DLLPath>
-            <CKANIdentifier>KSPInterstellarExtended</CKANIdentifier>
-        </ModReference>
     </ItemGroup>
     
 </Project>
